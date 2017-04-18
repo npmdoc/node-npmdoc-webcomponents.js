@@ -1,9 +1,14 @@
-# api documentation for  [webcomponents.js (v0.7.24)](http://webcomponents.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-webcomponents.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-webcomponents.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webcomponents.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webcomponents.js)
+# npmdoc-webcomponents.js
+
+#### api documentation for  [webcomponents.js (v0.7.24)](http://webcomponents.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-webcomponents.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-webcomponents.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webcomponents.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webcomponents.js)
+
 #### webcomponents.js
 
-[![NPM](https://nodei.co/npm/webcomponents.js.png?downloads=true)](https://www.npmjs.com/package/webcomponents.js)
+[![NPM](https://nodei.co/npm/webcomponents.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/webcomponents.js)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-webcomponents.js/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-webcomponents.js_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webcomponents.js/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-webcomponents.js/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-webcomponents.js/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-webcomponents.js/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webcomponents.js/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-webcomponents.js/build/screenCapture.npmPackageListing.svg)
 
@@ -46,17 +51,14 @@
     "main": "webcomponents.js",
     "maintainers": [
         {
-            "name": "addyosmani",
-            "email": "addyosmani@gmail.com"
+            "name": "addyosmani"
         },
         {
-            "name": "azakus",
-            "email": "dfreedm2@gmail.com"
+            "name": "azakus"
         }
     ],
     "name": "webcomponents.js",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/webcomponents/webcomponentsjs.git"
@@ -67,16 +69,6 @@
     "version": "0.7.24"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module webcomponents.js](#apidoc.module.webcomponents.js)
-
-
-
-# <a name="apidoc.module.webcomponents.js"></a>[module webcomponents.js](#apidoc.module.webcomponents.js)
 
 
 
