@@ -1,6 +1,6 @@
 # npmdoc-webcomponents.js
 
-#### api documentation for  [webcomponents.js (v0.7.24)](http://webcomponents.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-webcomponents.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-webcomponents.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webcomponents.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webcomponents.js)
+#### basic api documentation for  [webcomponents.js (v0.7.24)](http://webcomponents.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-webcomponents.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-webcomponents.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webcomponents.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webcomponents.js)
 
 #### webcomponents.js
 
@@ -66,7 +66,8 @@
     "scripts": {
         "test": "wct"
     },
-    "version": "0.7.24"
+    "version": "0.7.24",
+    "bin": {}
 }
 ```
 
